@@ -2,7 +2,7 @@
 
 > Student · Social Worker · Learner · Software Developer · Tutor · Entrepreneur  
 > Dhaka, Bangladesh
-![Header](github-header-banner.png) 
+<!-- ![Header](github-header-banner.png) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--shahriar--alam-blue?logo=linkedin)](https://www.linkedin.com/in/md-shahriar-alam)  
 📧 mdshahriaralam75@gmail.com | 📱 +8801715-549764 *(WhatsApp Only!)*
 
